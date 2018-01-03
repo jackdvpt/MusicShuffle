@@ -1,5 +1,4 @@
 # MusicShuffle
-====
 MusicPlayer.java is a class which deals with implementing methods to build and control music files on a music player; it consists of a linked list with three data fields.
 
 - Track name
